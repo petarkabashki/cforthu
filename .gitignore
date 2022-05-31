@@ -32,3 +32,10 @@
 *.app
 
 .vscode
+blk2lin
+forth
+forth.blk
+forth.cor
+forth.map
+lin2blk
+nf
